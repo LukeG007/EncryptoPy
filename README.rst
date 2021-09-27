@@ -26,4 +26,7 @@ Usage
   Decrypted_emoji = Encryptor.EmojiEncryption(Encrypted_emoji, 'de')
 
   print(Decrypted_emoji)
-..
+
+.. _The FFX Mode of Operation for Format-Preserving Encryption: http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec.pdf
+.. _Addendum to “The FFX Mode of Operation for Format-Preserving Encryption”: http://csrc.nist.gov/groups/ST/toolkit/BCM/documents/proposedmodes/ffx/ffx-spec2.pdf
+.. _libffx: https://github.com/kpdyer/libffx
