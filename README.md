@@ -7,7 +7,7 @@ import EncryptoPy
 
 Encryptor = EncryptoPy.TextEncryption()
 
-Encrypted_text = Encryptor.BasicTextEncryption("Message", Passowrd, 'Mode')
+#Encrypted_text = Encryptor.BasicTextEncryption("Message", Passowrd, 'Mode')
 
 Encrypted_text = Encryptor.BasicTextEncryption("Basic Encryption", 1234, 'en')
 
