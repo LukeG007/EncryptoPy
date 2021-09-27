@@ -26,3 +26,4 @@ Usage
   Decrypted_emoji = Encryptor.EmojiEncryption(Encrypted_emoji, 'de')
 
   print(Decrypted_emoji)
+..
