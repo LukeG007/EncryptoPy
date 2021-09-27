@@ -6,7 +6,7 @@ EncryptoPy is a simple, easy, and fun encryption library written in pure python
 import EncryptoPy
 
 Encryptor = EncryptoPy.TextEncryption()
-
+#                                                     Text      Password  Mode
 Encrypted_text = Encryptor.BasicTextEncryption("Basic Encryption", 1234, 'en')
 
 print(Encrypted_text)
