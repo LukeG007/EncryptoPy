@@ -17,6 +17,8 @@ Decrypted_text = Encryptor.BasicTextEncryption(Encrypted_text, 1234, 'de')
 
 print(Decrypted_text)
 
+#Encrypted_emoji = Encryptor.EmojiEncryption('Message', 'Mode')
+
 Encrypted_emoji = Encryptor.EmojiEncryption('Emoji Encryption', 'en')
 
 print(Encrypted_emoji)
