@@ -1,7 +1,7 @@
 ## EncryptoPy
 EncryptoPy is a simple, easy, and fun encryption library written in pure python
 
-## Useage
+## Usage
 ```python
 import EncryptoPy
 
